@@ -1,4 +1,4 @@
-![Hey there, I'm Rerragio Fernando. I'm a Self-Taught Indie Game Developer, a 3D Artist and Character Designer. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+![Hey there, I'm Rerragio Fernando. I'm a Self-Taught Indie Game Developer, a 3D Artist and Character Designer. Check out my work
 
 <!--
 **Rerragio-Fernando/Rerragio-Fernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
