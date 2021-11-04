@@ -1,9 +1,4 @@
-### Hi there 👋
-
-![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
-
----
-⭐️ From [CyrisXD](https://github.com/CyrisXD)
+![Hey there, I'm Rerragio Fernando. I'm a Self-Taught Indie Game Developer, a 3D Artist and Character Designer. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
 <!--
 **Rerragio-Fernando/Rerragio-Fernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
