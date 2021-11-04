@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![About Me](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
+---
+⭐️ From [CyrisXD](https://github.com/CyrisXD)
+
 <!--
 **Rerragio-Fernando/Rerragio-Fernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
