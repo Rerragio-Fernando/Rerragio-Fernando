@@ -3,7 +3,7 @@
 </p>  
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Rerragio Fernando At Your Service</h1>
-<h3 align="center">I'm a self-taught Game Developer hollering at you from Sri-Lanka</h3>
+<h3 align="center">I'm a Self-Taught Indie Game Developer reaching out to you from Sri-Lanka</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -65,9 +65,8 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/rerragio-fernando-b07742195/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/RerragioFernan1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href="https://www.artstation.com/aceghost360" target="_blank"> <img src="https://img.icons8.com/color/50/000000/artstation.png"/></a>
 <a href="https://pin.it/2mfB97H" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pinterest--v1.png"/></a>
 </p>
