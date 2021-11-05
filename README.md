@@ -1,12 +1,12 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><center><video width="100%" height="auto" src="space_dualshock_4.mp4" autoplay loop></center></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Rerragio Fernando At Your Service</h1>
+<h3 align="center">I'm a self-taught Game Developer hollering at you from Sri-Lanka</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 What else? **Character concepter and designer, also a 3D game asset developer**
 
 - 🌱 I’m currently learning **Game Development on Unity**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rerragiofernando2001@gmail.com**
 
-- ⚡ Fun fact **I love playing Valorant, and also a fitness freak**
+- ⚡ Fun fact **I love playing Valorant, and am also a fitness freak**
 
 ## 🚀 Languages and Tools:
 
